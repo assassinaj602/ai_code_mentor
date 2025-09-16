@@ -1,0 +1,1 @@
+_NeonBackdropPainter is defined inline below in the screen file via a CustomPainter; if absent we need to add it.
